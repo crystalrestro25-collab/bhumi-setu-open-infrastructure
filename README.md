@@ -90,6 +90,24 @@ BHUMI-SETU infrastructure consists of several core layers:
    - rural development monitoring
 
 ---
+## Key Infrastructure Components
+
+BHUMI-SETU is designed as modular digital public infrastructure consisting of several interoperable components:
+
+**Land Registry Verification Layer**  
+Blockchain-based smart contract framework enabling tamper-resistant land ownership verification and transaction records.
+
+**Farmer Identity Framework**  
+Standardized identity schema linking farmers to verified land parcels and agricultural activity.
+
+**Open Verification APIs**  
+Interoperable APIs that allow governments, financial institutions, and development programs to securely verify land ownership and farmer identity.
+
+**Data Schema and Interoperability Standards**  
+Open data structures enabling consistent land and agricultural identity records across different governance systems.
+
+**Developer Toolkit and Integration Modules**  
+Tools and documentation enabling developers and institutions to build applications and services on top of BHUMI-SETU infrastructure.
 ## Use Cases
 
 BHUMI-SETU infrastructure can support multiple institutional and development use cases across rural governance and agricultural ecosystems.
