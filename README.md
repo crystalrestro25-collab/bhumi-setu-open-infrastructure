@@ -36,9 +36,28 @@ BHUMI-SETU provides blockchain-enabled infrastructure that supports:
 The infrastructure allows institutions to verify land ownership and farmer identity without relying on centralized databases that are vulnerable to manipulation.
 
 ---
+## Digital Public Infrastructure Vision
+
+BHUMI-SETU is designed as open digital public infrastructure that enables governments, development organizations, and financial institutions to implement transparent land governance and farmer identity systems.
+
+By providing verifiable land records and interoperable farmer identity frameworks, the platform supports inclusive rural development, financial access, and accountable governance systems across developing economies.
+## Architecture Overview
 
 ## Architecture Overview
 
+BHUMI-SETU is designed as modular digital public infrastructure consisting of several layers:
+
+Users / Institutions
+        │
+Application Layer
+        │
+Verification API Layer
+        │
+Blockchain Trust Layer
+        │
+Data Schema Layer
+        │
+Identity Layer
 BHUMI-SETU infrastructure consists of several core layers:
 
 1. **Identity Layer**
