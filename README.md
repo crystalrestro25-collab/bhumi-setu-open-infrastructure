@@ -164,6 +164,11 @@ BHUMI-SETU aims to contribute to the development of transparent, inclusive, and 
 ## Why Open Source
 
 Land governance systems require transparency, trust, and interoperability across institutions. By developing BHUMI-SETU as open digital infrastructure, the project enables governments, development organizations, and technology partners to build interoperable solutions that strengthen rural governance and agricultural ecosystems.
+## Digital Public Good Alignment
+
+BHUMI-SETU is designed as open digital public infrastructure and aligns with the principles of Digital Public Goods, including open-source technology, transparency, interoperability, and potential for global adaptation. 
+
+The project aims to contribute to the development of open infrastructure that governments, development organizations, and technology partners can adopt to strengthen land governance systems and agricultural identity frameworks across developing economies.
 ## License
 
 This project is released under the MIT License.
