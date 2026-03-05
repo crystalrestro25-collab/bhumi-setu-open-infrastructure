@@ -83,7 +83,29 @@ BHUMI-SETU infrastructure consists of several core layers:
    - rural development monitoring
 
 ---
+## Use Cases
 
+BHUMI-SETU infrastructure can support multiple institutional and development use cases across rural governance and agricultural ecosystems.
+
+### Government Land Governance
+
+Governments can use BHUMI-SETU to implement transparent and verifiable land registry systems. Blockchain-based verification ensures that land ownership records remain tamper-resistant and auditable, reducing disputes and improving administrative transparency.
+
+### Agricultural Finance and Banking
+
+Financial institutions can verify land ownership and farmer identity when assessing eligibility for agricultural loans or credit services. This reduces risk and improves financial inclusion for smallholder farmers.
+
+### Development Programs and Subsidy Verification
+
+Development agencies and government programs can use BHUMI-SETU to validate land ownership and farmer identity when distributing agricultural subsidies, welfare programs, or rural development support.
+
+### Insurance and Risk Assessment
+
+Agricultural insurance providers can use verifiable land and farmer data to assess risk profiles and ensure accurate claim validation for crop insurance programs.
+
+### Rural Data Infrastructure
+
+BHUMI-SETU can function as foundational digital infrastructure enabling interoperable data exchange between land governance systems, financial services, and agricultural development platforms.
 ## Open Infrastructure Components
 
 The following components are released as open-source infrastructure:
