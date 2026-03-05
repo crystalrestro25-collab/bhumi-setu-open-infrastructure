@@ -43,7 +43,6 @@ BHUMI-SETU is designed as open digital public infrastructure that enables govern
 By providing verifiable land records and interoperable farmer identity frameworks, the platform supports inclusive rural development, financial access, and accountable governance systems across developing economies.
 ## Architecture Overview
 
-## Architecture Overview
 
 BHUMI-SETU is designed as modular digital public infrastructure consisting of several layers:
 
