@@ -41,6 +41,13 @@ The infrastructure allows institutions to verify land ownership and farmer ident
 BHUMI-SETU is designed as open digital public infrastructure that enables governments, development organizations, and financial institutions to implement transparent land governance and farmer identity systems.
 
 By providing verifiable land records and interoperable farmer identity frameworks, the platform supports inclusive rural development, financial access, and accountable governance systems across developing economies.
+## Project Status
+
+BHUMI-SETU is currently in early-stage development.
+
+The repository contains the foundational architecture, open data schemas, API framework design, and documentation for the infrastructure. Development will progress through prototype implementation and pilot testing in rural governance environments.
+
+Contributions from developers, researchers, and public infrastructure partners are welcome.
 ## Architecture Overview
 
 
@@ -136,7 +143,9 @@ These extensions support large-scale implementations while maintaining open infr
 BHUMI-SETU aims to contribute to the development of transparent, inclusive, and trustworthy digital infrastructure for rural governance and agricultural ecosystems.
 
 ---
+## Why Open Source
 
+Land governance systems require transparency, trust, and interoperability across institutions. By developing BHUMI-SETU as open digital infrastructure, the project enables governments, development organizations, and technology partners to build interoperable solutions that strengthen rural governance and agricultural ecosystems.
 ## License
 
 This project is released under the MIT License.
