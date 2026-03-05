@@ -1,5 +1,5 @@
 # bhumi-setu-open-infrastructure
-Open blockchain infrastructure enabling transparent land governance and farmer identity systems for developing economies
+Open digital public infrastructure enabling transparent land governance and verifiable farmer identity systems for developing economies.
 # BHUMI-SETU Open Infrastructure
 
 BHUMI-SETU is an open digital public infrastructure designed to enable transparent land governance and verifiable farmer identity systems in developing economies.
